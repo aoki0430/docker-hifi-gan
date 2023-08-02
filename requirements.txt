@@ -1,0 +1,6 @@
+torch
+numpy
+scipy
+audioread
+soundfile
+hifi-gan-bwe
